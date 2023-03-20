@@ -93,4 +93,4 @@ _2023_ **Экзамен в интерфейсе тестирования** Crowd
 
 ![Ручное тестирование веб-приложений](https://skr.sh/s/160223/0wWIUsXQ.jpg?download=1&name=%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2011-03-2023%2022:49:37.jpg)
 
-![Git - система контроля версий](https://skr.sh/s/190323/SZ9Qxvip)
+![Git - система контроля версий](https://d1.skrinshoter.ru/s/190323/SZ9Qxvip.jpg)
