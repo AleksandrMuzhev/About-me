@@ -95,6 +95,6 @@ _2023_ **Экзамен в интерфейсе тестирования** Crowd
 
 ![Git - система контроля версий](https://d1.skrinshoter.ru/s/190323/SZ9Qxvip.jpg)
 
-![HTML и CSS для тестировщиков](https://skr.sh/s/230323/fCnUcNtV)
+![HTML и CSS для тестировщиков](https://skr.sh/i/230323/fCnUcNtV.jpg?download=1&name=%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2023-03-2023%2022:29:24.jpg)
 
-![Компьютерная грамотность](https://skr.sh/s/110323/26QRMzbd)
+![Компьютерная грамотность](https://skr.sh/s/110323/lS7qTweW.jpg?download=1&name=%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2023-03-2023%2022:29:51.jpg)
