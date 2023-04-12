@@ -1,4 +1,4 @@
-![Моя фотография](https://img.hhcdn.ru/photo/546004074.jpeg?t=1679394476&h=X2PldgvMYonQhBxTbFjWsA)
+![Моя фотография](https://img.hhcdn.ru/photo/546004074.jpeg?t=1681374852&h=jACg-u3KvIPwXUIjenVrOw)
 
 # Мужев Александр Николаевич
 _Дата рождения_ 3 декабря 1990  
