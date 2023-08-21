@@ -60,16 +60,16 @@ _Способ связи_ Skype: aleksandr9148, Email: muzhev1990@mail.ru, muzhe
 
 Люблю спорт (ОФП, футбол, в принципе любые командные игры). Люблю азартные игры в хороших дружественных компаниях (для души). Люблю поездки на природу, проводить время с семьей, смотреть фильмы.
 
-Моя страница на linkedIn: ![linkedIn](www.linkedin.com/in/aleksandr-muzhev-837b9a26b)
+Моя страница на linkedIn: [linkedIn](www.linkedin.com/in/aleksandr-muzhev-837b9a26b)
 
 Мои работы (проекты) на протяжении обучения на площадке Нетологии доступны по ссылкам:
 1. Курсовой проект по окончанию модуля "Ручное тестирование WEB-приложений"
-![Курсовой проект по окончанию модуля "Ручное тестирование WEB-приложений"](https://docs.google.com/spreadsheets/d/1NbytFQmUFJroKUp8H_ZkbR4lpX9AyuEMFUjzgRX2ry8/edit?usp=sharing)
+[Курсовой проект по окончанию модуля "Ручное тестирование WEB-приложений"](https://docs.google.com/spreadsheets/d/1NbytFQmUFJroKUp8H_ZkbR4lpX9AyuEMFUjzgRX2ry8/edit?usp=sharing)
 3. Командная работа по результатам модуля "Java для тестировщиков"
 Ссылка на Issues из проекта напарника, выполнялся в команде из двух человек (Я и коллега Natalie)
-![Командная работа по результатам модуля "Java для тестировщиков"](https://github.com/dnatali2211/2.17.Command-project/issues?q=is%3Aissue+is%3Aclosed)
+[Командная работа по результатам модуля "Java для тестировщиков"](https://github.com/dnatali2211/2.17.Command-project/issues?q=is%3Aissue+is%3Aclosed)
 5. Курсовой проект по окончанию модулей "Ручное тестирование, GIT, Java, Автоматизированное тестирование"
-![Курсовой проект по окончанию модулей "Ручное тестирование, GIT, Java, Автоматизированное тестирование"](https://github.com/AleksandrMuzhev/CourseProject_AQA60)
+[Курсовой проект по окончанию модулей "Ручное тестирование, GIT, Java, Автоматизированное тестирование"](https://github.com/AleksandrMuzhev/CourseProject_AQA60)
 
 Переход в ИТ сферу из автосферы в связи с тем, что на текущем рабочем месте достиг для себя предела (высшего разряда) и дальнейшего развития в компании не вижу. В ИТ сфере вижу новые перспективы для развития, стремления, вкладывания полезных усилий в получение знаний и получения навыков.
 Для перехода готов рассматривать работу по совмещению (стажировки), работу в свои выходные для освоения новой профессии.
@@ -151,8 +151,10 @@ _2023_ **Экзамен в интерфейсе тестирования** Crowd
 
 ![Компьютерная грамотность](https://skr.sh/s/110323/lS7qTweW.jpg?download=1&name=%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2023-03-2023%2022:29:51.jpg)
 
-![Java для тестировщиков](https://skrinshoter.ru/sJs9x81Jhl8?a)
+![Java для тестировщиков](https://github.com/AleksandrMuzhev/About-me/assets/126883049/8c85b687-6b28-4cbe-ad2b-4a282303690a)
 
-![Автоматизированное тестирование](https://disk.yandex.ru/d/4y8PJSzBRIQg-w)
+![Автоматизированное тестирование](https://github.com/AleksandrMuzhev/About-me/assets/126883049/a4049640-4b0e-481a-8d7b-2352e4bc9983)
 
-![Контроль качества ПО](https://skrinshoter.ru/sKDHOqFsuCD?a)
+
+![Контроль качества ПО](https://github.com/AleksandrMuzhev/About-me/assets/126883049/6d02f24a-cfd1-4e69-bf2e-13c59d03366f)
+
