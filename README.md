@@ -155,6 +155,8 @@ _2023_ **Экзамен в интерфейсе тестирования** Crowd
 
 ![Автоматизированное тестирование](https://github.com/AleksandrMuzhev/About-me/assets/126883049/a4049640-4b0e-481a-8d7b-2352e4bc9983)
 
-
 ![Контроль качества ПО](https://github.com/AleksandrMuzhev/About-me/assets/126883049/6d02f24a-cfd1-4e69-bf2e-13c59d03366f)
+
+![Основы языка программирования Python](https://github.com/AleksandrMuzhev/About-me/assets/126883049/776fb7e7-13c9-446c-88b8-9ef2451a1fa5)
+
 
