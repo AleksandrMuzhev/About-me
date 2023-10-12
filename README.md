@@ -31,7 +31,7 @@ _Способ связи_ Skype: aleksandr9148, Email: muzhev1990@mail.ru, muzhe
  20. **Reports** (Allure, Report Portal, Gradle)
  21. **Docker и Docker Compose**
  22. **JavaScript** (DevTools, Массивы, Циклы, Переменные)
- 23. **Python** (Операторы сравнения, циклы, множества)
+ 23. **Python**
  24. **Java** (ООП, Maven, Gradle, CI, Collections, JaCoCo)
  25. **Selenium, Selenide** (автоматизация сценария с использованием PajeObjects)
  26. **SQL** (простые команды почти свободно, сложные задачи через гулл, также знаком с MySQL и PostgreSQL)
@@ -121,7 +121,7 @@ _Июль 2017 — сентябрь 2017
 
 ## Повышение квалификации, курсы
 
- _2023_ **Тестировщик ПО** Нетология
+ _2023_ **Инженер по тестированию: с нуля до middle** Нетология
 
  _2023_ **Контроль качества ПО** Naumen
 
