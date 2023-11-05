@@ -159,7 +159,8 @@ _2023_ **Экзамен в интерфейсе тестирования** Crowd
 
 ![Основы языка программирования Python](https://github.com/AleksandrMuzhev/About-me/assets/126883049/776fb7e7-13c9-446c-88b8-9ef2451a1fa5)
 
-![Автоматизация тестирования веб-интерфейсов](https://github.com/AleksandrMuzhev/About-me/assets/126883049/e03c10b1-215c-4a81-a1bf-9de36f8e0ba7)
+![Автоматизация тестирования веб-интерфейсов](https://github.com/AleksandrMuzhev/About-me/assets/126883049/401af78b-e25f-4abf-a9bb-c3b11b7d0d0b)
+
 
 
 
